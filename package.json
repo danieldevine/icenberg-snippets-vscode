@@ -1,0 +1,44 @@
+{
+  "name": "icenberg-snippets",
+  "displayName": "Icenberg Snippets",
+  "description": "Snippets for the Icenberg, the ACF and WordPress templating library",
+  "author": {
+    "name": "Dan Devine",
+    "email": "jerk@coderjerk.com",
+    "url": "https://coderjerk.com"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "keywords": [
+    "acf",
+    "Advanced Custom Fields",
+    "WordPress"
+  ],
+  "galleryBanner": {
+    "color": "#B6E3F0",
+    "theme": "dark"
+  },
+  "icon": "images/icon.png",
+  "pricing": "Free",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "php",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/danieldevine/icenberg-snippets-vscode/issues",
+    "email": "jerk@coderjerk.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieldevine/icenberg-snippets-vscode"
+  }
+}
