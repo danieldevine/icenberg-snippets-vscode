@@ -48,8 +48,6 @@ $ice->field('field_name')->except(['sub_field_name'])->get();
 ```
 ---
 
-### Coming soon
-
 `ice:enclose`
 ```php
 $ice->enclose('class', [

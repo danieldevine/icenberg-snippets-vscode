@@ -7,3 +7,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [v1.0.0]
 
 - Initial release
+
+## [v1.0.2]
+- Fixed unescaped $s in enclose and wrap
