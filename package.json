@@ -7,6 +7,7 @@
     "email": "jerk@coderjerk.com",
     "url": "https://coderjerk.com"
   },
+  "publisher": "vscode-samples",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.98.0"
