@@ -2,8 +2,6 @@
 
 Snippets to make the WordPress ACF templating tool [Icenberg](https://github.com/maverick-international/Icenberg) even easier to use. 
 
----
-
 ## Features
 
 Snippets are provided for the following common icenberg features:
@@ -70,8 +68,6 @@ $icenberg::wrap(
     true
 );
 ```
----
-
 
 ## Requirements
 
@@ -81,4 +77,5 @@ To use Icenberg you'll need to be using
 - Icenberg
 - WordPress
 
+You can find out more about Icenberg here: https://github.com/maverick-international/Icenberg
 
