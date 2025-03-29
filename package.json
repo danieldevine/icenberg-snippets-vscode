@@ -40,5 +40,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/danieldevine/icenberg-snippets-vscode"
-  }
+  },
+  "homepage": "https://github.com/danieldevine/icenberg-snippets-vscode"
 }
